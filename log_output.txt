@@ -1,0 +1,6 @@
+[keedongmon] Tue May 20 06:37:34 2025 +0900 docs: class diagram dcbee87
+[keedongmon] Tue May 20 05:55:27 2025 +0900 docs : use case description 6e41f41
+[keedongmon] Tue May 20 05:35:01 2025 +0900 docs : add personal number & url 79a9e59
+[keedongmon] Tue May 20 05:27:37 2025 +0900 docs : requirement list dc5237c
+[keedongmon] Tue May 20 05:27:21 2025 +0900 docs : communication diagram dc846db
+[keedongmon] Tue May 20 05:27:06 2025 +0900 docs : use case diagram 02c577d
