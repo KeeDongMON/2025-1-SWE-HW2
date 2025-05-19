@@ -1,3 +1,5 @@
+13920
+https://github.com/KeeDongMON/2025-1-SWE-HW2
 | **No.** | **Requirement** | **UseCase** |
 | --- | --- | --- |
 | 1 | 사용자는 회원 가입을 할 수 있다. 회원의 필수 입력 정보는 ID, 비밀번호, 전화번호이다. | 회원 가입 |
